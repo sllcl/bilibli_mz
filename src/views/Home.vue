@@ -1,5 +1,6 @@
 <template>
   <div id="home">
+    <!-- 谷歌 -->
     <Header></Header>
     <Image></Image>
   </div>
