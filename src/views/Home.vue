@@ -1,6 +1,6 @@
 <template>
   <div id="home">
-    <!-- 谷歌 -->
+    <!-- 谷歌1111 -->
     <Header></Header>
     <Image></Image>
   </div>
